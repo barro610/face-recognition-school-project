@@ -1,0 +1,40 @@
+# Fichiers de configuration des IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration
+config/secrets.yaml
+
+# Fichiers générés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Dépendances installées
+*.egg-info/
+.eggs/
+*.egg
+.Python
+
+# Build et distribution
+build/
+dist/
+*.wheel
+*.egg
+
+# Autres
+.DS_Store
+Thumbs.db
